@@ -10,6 +10,8 @@ A simple Postman project demonstrating API testing using GET and POST requests, 
 - Explore how APIs behave in both successful and error scenarios
 - Build a small, focused API testing example suitable for an entry-level QA portfolio
 
+---
+
 ## What This Project Includes
 
 - A Postman collection testing the JSONPlaceholder REST API
@@ -18,4 +20,8 @@ A simple Postman project demonstrating API testing using GET and POST requests, 
 - Basic assertions validating status codes and response bodies
 - A negative test case for an invalid endpoint (404 response)
 - Screenshots showing request execution and test results
+
+---
+
+## Screenshots
 
