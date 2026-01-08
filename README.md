@@ -26,5 +26,5 @@ A simple Postman project demonstrating API testing using GET and POST requests, 
 ## Screenshots
 
 **GET - All Posts**
-![Get all posts](screenshots/get-all-posts)
+![Get all posts](screenshots/get-all-posts.png)
 
