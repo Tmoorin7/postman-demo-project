@@ -29,6 +29,6 @@ A simple Postman project demonstrating API testing using GET and POST requests, 
 ![Get all posts](screenshots/get-all-posts.png)
 
 **GET - Post by ID**
-![GET post by ID](screenshots/get-post-by-ID.png)
+![GET post by ID](screenshots/get-post-by-id.png)
 ![GET post by ID assertions](get-post-by-id-assertions.png)
 
